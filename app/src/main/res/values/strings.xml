@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Charity Donation</string>
+    <string name="charity_quote">Charity brings to life again those who are spiritually dead</string>
+
+
+    <string-array name="donation_type">
+        <item>Select Donation Type</item>
+        <item>Cloth Donation</item>
+        <item>Food Donation</item>
+        <item>Stationary Donation</item>
+        <item>Other Donation</item>
+    </string-array>
+    <string name="title_activity_dashboard">MainActivity</string>
+    <string name="title_home">Donation</string>
+    <string name="title_dashboard">Profile</string>
+    <string name="title_logout">Logout</string>
+
+
+</resources>
